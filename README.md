@@ -1,4 +1,4 @@
-# 💙 Projeto para ela
+# 💜 Projeto para ela
 
 Este é um projeto de página web dedicado a uma pessoa especial. Ele apresenta uma coleção de fotos, um vídeo de fundo e uma mensagem carinhosa com uma pequena surpresa interativa.
 
